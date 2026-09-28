@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:8b0000&height=200&section=header&text=Arnav%20Chaurasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%80%9CPeople%20live%20their%20lives%20bound%20by%20what%20they%20accept%20as%20correct%20and%20true.%E2%80%9D&descAlignY=62&descSize=15&descColor=cc4444" width="100%"/>
+<img src="https://raw.githubusercontent.com/arnavxchaurasia/arnavxchaurasia/main/assets/banner.svg" width="100%"/>
+
+<sub>“People live their lives bound by what they accept as correct and true.”</sub>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=B71C1C&center=true&vCenter=true&width=650&lines=%E2%9A%94%EF%B8%8F+writing+code+like+it%27s+a+katana%3A+sharp%2C+minimal%2C+no+wasted+motion;%F0%9F%8C%99+genjutsu-level+debugging+%E2%80%94+nothing+is+ever+what+it+seems;%F0%9F%97%A1%EF%B8%8F+build+quietly%2C+ship+loudly" alt="Typing SVG" /></a>
 
